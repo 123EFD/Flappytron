@@ -41,6 +41,15 @@ public class volumeScript : MonoBehaviour
 
     }
 
+    void Update()
+    {
+        // Listen for the "v" key press to cycle volume
+        if (Input.GetKeyDown(KeyCode.V))
+        {
+            CycleVolumeState();
+        }
+    }
+
     void CycleVolumeState()
     {
         // Increment the state index and wrap around if it exceeds the array bounds
