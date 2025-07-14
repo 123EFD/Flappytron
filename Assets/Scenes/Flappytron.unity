@@ -638,6 +638,14 @@ PrefabInstance:
       propertyPath: bottomPipe
       value: 
       objectReference: {fileID: 1157259746}
+    - target: {fileID: -3525284472940877700, guid: f36b0c167d3c8964ab3dfdeaacb166d8, type: 3}
+      propertyPath: verticalAmplitude
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3525284472940877700, guid: f36b0c167d3c8964ab3dfdeaacb166d8, type: 3}
+      propertyPath: verticalFrequency
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 72881366162824250, guid: f36b0c167d3c8964ab3dfdeaacb166d8, type: 3}
       propertyPath: m_Name
       value: Pipes
@@ -1601,7 +1609,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 24, y: 10.666667, z: 1}
+  m_LocalScale: {x: -24, y: 10.666667, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1768,7 +1776,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1026711955}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3792bcd25974424788b5bad62bb8e06, type: 3}
   m_Name: 

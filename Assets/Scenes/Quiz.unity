@@ -767,6 +767,21 @@ MonoBehaviour:
   - What is the name of the point in Earth's orbit when it is farthest from the Sun?
   - What is the name for a plant that retains its leaves throughout the year?
   - What is the name of one of the developers of this game?
+  - 'Solve for  x x:  3 x + 5 = 20 3x+5=20.'
+  - "Expand and simplify:  ( 2 x \u2212 3 ) ( x + 4 ) (2x\u22123)(x+4)."
+  - "Factorize completely:  x^2 \u2212 9 "
+  - "Solve the quadratic equation:  x^2\u22125x+6=0"
+  - Two angles in a triangle are  45 degree and  60 degree  . What is the measure
+    of the third angle?
+  - 'Find the LCM and HCF of 12 and 18. '
+  - A ladder 10 m long leans against a wall. If the angle between the ladder and
+    the ground is  60 degree, how far is the foot of the ladder from the wall?
+  - If a number is increased by 20% and becomes 60, what was the original number?
+  - 'In a class of 30 students, 12 are girls. What is the probability that a randomly
+    selected student is a boy?  '
+  - "Evaluate  \u222B(2x+3)dx."
+  - "Find the volume of a cylinder with radius 3 cm and height 10 cm in the form
+    \u03C0 (no need to put unit)."
   answers:
   - Gravity/Gravity force
   - Water/Waters
@@ -818,11 +833,24 @@ MonoBehaviour:
   - Aphelion
   - Evergreen/Evergreen plant
   - Khytron/Kas/Ikhmal
+  - 5
+  - "2x^2+8x\u22123x\u221212"
+  - "(x+3)(x\u22123)"
+  - 2/3
+  - 75 degree
+  - 'LCM=36, HCF=6 '
+  - '5 '
+  - 50
+  - 3/5
+  - ' x^2+3x+C'
+  - "90\u03C0"
   question: {fileID: 631932131}
   answer: {fileID: 243005632}
   answerString: 
   scriptManager: {fileID: 0}
   game: {fileID: 0}
+  cheatAnswer:
+  - yaya
 --- !u!4 &685243696
 Transform:
   m_ObjectHideFlags: 0
