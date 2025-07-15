@@ -782,8 +782,10 @@ MonoBehaviour:
   - "Evaluate  \u222B(2x+3)dx."
   - "Find the volume of a cylinder with radius 3 cm and height 10 cm in the form
     \u03C0 (no need to put unit)."
+  - "Find the volume of a cylinder with radius 3 cm and height 10 cm in the form
+    \u03C0 (no need to put unit)."
   answers:
-  - Gravity/Gravity force
+  - Gravity/Gravity force/Gravitational force
   - Water/Waters
   - Carbon dioxide/Carbon dioxides
   - Proxima Centauri
