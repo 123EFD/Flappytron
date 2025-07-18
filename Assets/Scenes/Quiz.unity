@@ -785,7 +785,7 @@ MonoBehaviour:
   - "Find the volume of a cylinder with radius 3 cm and height 10 cm in the form
     \u03C0 (no need to put unit)."
   answers:
-  - Gravity/Gravity force/Gravitational force
+  - Gravity/Gravity force/Gravitational force/Gravitational
   - Water/Waters
   - Carbon dioxide/Carbon dioxides
   - Proxima Centauri
@@ -797,7 +797,7 @@ MonoBehaviour:
   - NaCl
   - Nitrogen/Nitrogens
   - Photosynthesis
-  - Milky Way/Milky Way Galaxy
+  - Milky Way/Milky Way Galaxy/Milky
   - Andromeda/Andromeda Galaxy
   - Potential energy/Potential/Elastic Potential Energy
   - Diamond/Diamonds
@@ -843,7 +843,7 @@ MonoBehaviour:
   - 'LCM=36, HCF=6 '
   - '5 '
   - 50
-  - 3/5
+  - 3 over 5
   - ' x^2+3x+C'
   - "90\u03C0"
   question: {fileID: 631932131}
